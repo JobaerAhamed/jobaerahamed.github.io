@@ -1,19 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
 body {
-    font-family: 'Anonymous Pro', monospace;
+    font-family: monospace;
     margin-left: 10vw;
     margin-right: 10vw;
     text-align: center;
     padding-top: 5%;
-    padding-left: 8%;
-    padding-right: 8%;
-    margin-bottom:50px;
-}
-body {
-    background-color: rgb(236, 236, 236);
+    margin-bottom:100px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(60, 60, 60);
 }
 p {
     font-size: 13pt;
+}
+img {
+ border-radius: 50%;
 }
 ul {
     text-align: left;
@@ -22,11 +21,12 @@ ul {
 }
 ._footer {
     position: fixed;
-    height: 50px;
-    background-color: rgb(177, 177, 177);
+    background-color: rgb(21, 21, 21);
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
     text-align: center;
+    font-size: 12pt;
+    color: rgb(255, 255, 255);
 }
