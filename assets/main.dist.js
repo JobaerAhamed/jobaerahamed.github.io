@@ -55,7 +55,7 @@ let _content = {
     type: "p",
     mountTo: "_container",
     data:
-      '<a href = "mailto:jobaerahamedrobin@gmail.com">jobaerahamedrobin@gmail.com</a><br><a href="tel:+8801852114440">+8801852114440</a>',
+      '<a href = "mailto:jobaerahamedrobin@gmail.com">jobaerahamedrobin@gmail.com</a>',
   },
   thanks: { type: "h4", mountTo: "_footer", data: "Thank you for reading🍻" },
 };
