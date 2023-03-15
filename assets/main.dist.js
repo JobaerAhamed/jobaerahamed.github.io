@@ -9,17 +9,16 @@ let _content = {
     type: "p",
     mountTo: "_container",
     data:
-      "I am <strong>Jobaer Ahamed</strong>. Interested in software development(Private/Open Source). I am working as web developer for few years now.",
+      "I am Jobaer Ahamed. Interested in software development, working as a software engineer for few years now.",
   },
   workWith: {
     type: "ul",
     mountTo: "_container",
     data: [
       "Language I try to work with:",
-      "🥔 Javascipt & Typescript",
-      "🥔 PHP",
-      "🥔 Python",
-      "🥔 Rust/C [learning]",
+      "🥔 Javascipt, Typescript",
+      "🥔 PHP, Python",
+      "🥔 GO",
     ],
   },
   stack: {
@@ -29,9 +28,9 @@ let _content = {
       "Items I try to use:",
       "🥔 JS/TS: [NodeJS, NestJS, NextJS, React]",
       "🥔 DB: [Mysql, Mongodb, Redis]",
-      "🥔 Python: [Flask, Django]",
+      "🥔 Go: [Echo, Fiber, GORM]",
       "🥔 PHP: [Laravel, Wordpress]",
-      "🥔 Tools: [Docker, ElasticStack, Jenkins, Jest, Selenium, cPanel, AWS]",
+      "🥔 Tools: [Docker, Jenkins, GHA, AWS, Kubernetes, Helm]",
     ],
   },
   interests: {
